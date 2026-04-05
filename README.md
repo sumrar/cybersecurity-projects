@@ -23,7 +23,7 @@ Cyber Security student at Manchester Metropolitan University with hands-on exper
 - Evaluated GDPR failures and web vulnerabilities
 - Suggested mitigation strategies (MFA, WAF, CSP)
 
-- ### 🔹 Cybersecurity Awareness & Virtualisation
+### 🔹 Cybersecurity Awareness & Virtualisation
 - Created cybersecurity awareness content on threat prevention and GDPR
 - Developed a VirtualBox lab with Linux and Metasploit
 
