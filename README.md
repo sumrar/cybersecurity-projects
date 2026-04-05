@@ -19,13 +19,13 @@ Cyber Security student at Manchester Metropolitan University with hands-on exper
 - Identified vulnerabilities and fraud detection weaknesses
 - Proposed security improvements
 
-### 🔹 British Airways Data Breach Analysis
+### 🔹 Cyber Incident Analysis (British Airways)
 - Evaluated GDPR failures and web vulnerabilities
 - Suggested mitigation strategies (MFA, WAF, CSP)
 
-### 🔹 Virtual Lab Setup
-- Created lab using VirtualBox, Linux, and Metasploit
-- Tested vulnerabilities in a safe environment
+- ### 🔹 Cybersecurity Awareness & Virtualisation
+- Created cybersecurity awareness content on threat prevention and GDPR
+- Developed a VirtualBox lab with Linux and Metasploit
 
 ## Tools & Skills
 - Wireshark
